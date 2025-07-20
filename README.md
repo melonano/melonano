@@ -28,7 +28,7 @@
 - 🐼 **Pandas** - Manipulação e análise de dados
 - 📡 **Postman** - Desenvolvimento e testes de APIs
 
-### 🛠️ Ferramentas de desenvolvimento
+## 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows)](https://skillicons.dev)
 
 <!-- Container flexível para imagem à esquerda e texto à direita -->
