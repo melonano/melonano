@@ -15,15 +15,6 @@
 - 📈 **Experiência em projetos**: Rollout, migração de sistemas, ERP e redes corporativas
 - 🏆 **Visão estratégica** para otimização de processos e modernização tecnológica
 
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoMeloSantos/RodrigoMeloSantos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoMeloSantos/RodrigoMeloSantos/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/RodrigoMeloSantos/RodrigoMeloSantos/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ## Tecnologias e linguagens 💻
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,mongodb)](https://skillicons.dev)
 
