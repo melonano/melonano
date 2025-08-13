@@ -16,22 +16,24 @@
 - 🏆 **Visão estratégica** para otimização de processos e modernização tecnológica
 
 ## Tecnologias e linguagens 💻
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,supabase)](https://skillicons.dev)
 
-### 🚀 Frameworks e ferramentas de automação
+## 🚀 Frameworks e ferramentas de automação
 <p>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cypress.png" alt="Cypress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="Requests" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" width="40" height="40"/>
-</p
+</p>
+
 - 🎭 **Playwright** - Automação moderna de testes web
 - 🔍 **Cypress** - Testes end-to-end
 - 🐍 **Requests** - Biblioteca Python para requisições HTTP
 - 🐼 **Pandas** - Manipulação e análise de dados
 - 📡 **Postman** - Desenvolvimento e testes de APIs
 
-
-### 🛠️ Ferramentas de desenvolvimento
+## 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows)](https://skillicons.dev)
 
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start; justify-content: flex-start; gap: 30px;">
