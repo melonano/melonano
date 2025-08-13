@@ -1,4 +1,4 @@
-# 🧑🏽‍💻 Olá, eu sou o Rodrigo Melo dos Santos!
+# 🧑🏽‍💻 Olá, eu sou o Rodrigo!
 
 <p align="left">
   Profissional de TI com mais de 10 anos de experiência, especializado em suporte técnico, infraestrutura, qualidade de software e automação de processos. <br>
