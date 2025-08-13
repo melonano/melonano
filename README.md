@@ -65,6 +65,7 @@
 - **Automação**: Web Automation, testes exploratórios, Playwright
 - **APIs**: Desenvolvimento e testes com Postman
 - **Modernização**: Atualização de sistemas operacionais, migração de ambientes
+- 
 
 <p align="left">
   Vamos nos conectar? Sou sempre aberto a discussões sobre automação, qualidade de software e modernização de sistemas! 💌✨
