@@ -73,15 +73,3 @@
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,github)](https://skillicons.dev)
-
-<p align="left">
-  <a href="mailto:rodrigo.melo@example.com" title="Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rodrigo-melo-dos-santos-0262a033/" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="#" title="WhatsApp">
-    <img src="https://skillicons.dev/icons?i=github" alt="WhatsApp"/>
-  </a>
-</p>
