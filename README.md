@@ -19,9 +19,11 @@
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,mongodb)](https://skillicons.dev)
 
 ### 🚀 Frameworks e ferramentas de automação
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/98150346/5f7957e8-4674-4b58-a831-29e20a81d451" alt="Playwright" width="40" height="40"/>
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/98150346/092025ed-b5f7-414c-83b6-200a734e9e04" alt="Cypress" width="40" height="40"/>
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/98150346/30040e3f-6799-4d6b-80a1-778912d7c006" alt="Postman" width="40" height="40"/>
+</p>
 - 🎭 **Playwright** - Automação moderna de testes web
 - 🔍 **Cypress** - Testes end-to-end
 - 🐍 **Requests** - Biblioteca Python para requisições HTTP
@@ -31,10 +33,8 @@
 ## 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows)](https://skillicons.dev)
 
-<!-- Container flexível para imagem à esquerda e texto à direita -->
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start; justify-content: flex-start; gap: 30px;">
 
-  <!-- Imagem com tamanho fixo à esquerda -->
   <div style="flex: 0 0 350px; text-align: center;">
     <img 
       src="./images/neo-is-sleeping-matrix.gif" 
@@ -43,7 +43,6 @@
     >
   </div>
 
-  <!-- Texto à direita ocupando o restante do espaço -->
   <div style="flex: 1; text-align: left; min-width: 300px;">
     <p>
       Minha jornada em TI começou com <strong>suporte em microinformática e manutenção de redes</strong>, evoluindo para implantação de sistemas corporativos e automação de processos.<br><br>
@@ -75,12 +74,12 @@
 
 <p align="left">
   <a href="mailto:rodrigo.melo@example.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"/>
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/98150346/aa70d303-62c6-4d0f-a957-c0e5a6a57835" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/rodrigo-melo-dos-santos-0262a033/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/98150346/102c340c-f370-4ac5-888e-1510e167c13e" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="#" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white"/>
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/98150346/362f6b3e-e020-410a-b337-128a1c97f480" alt="WhatsApp" width="40" height="40"/>
   </a>
 </p>
