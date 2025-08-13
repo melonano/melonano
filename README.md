@@ -71,4 +71,14 @@
   Vamos nos conectar? Sou sempre aberto a discussões sobre automação, qualidade de software e modernização de sistemas! 💌✨
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,github)](https://skillicons.dev)
+<p align="left">
+  <a href="mailto:rodrigo.melo@example.com" title="E-mail">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigo-melo-dos-santos-0262a033/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/melonano" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
