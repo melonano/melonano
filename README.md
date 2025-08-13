@@ -67,7 +67,7 @@
 - **Modernização**: Atualização de sistemas operacionais, migração de ambientes
 
 <p align="left">
-  Vamos nos conectar? Sou sempre aberto a discussões sobre automação, qualidade de software e modernização de sistemas! 💌✨
+  ### Vamos nos conectar? Sou sempre aberto a discussões sobre automação, qualidade de software e modernização de sistemas! 💌✨
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,github)](https://skillicons.dev)
