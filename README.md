@@ -20,9 +20,9 @@
 
 ### 🚀 Frameworks e ferramentas de automação
 <p>
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/98150346/5f7957e8-4674-4b58-a831-29e20a81d451" alt="Playwright" width="40" height="40"/>
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/98150346/092025ed-b5f7-414c-83b6-200a734e9e04" alt="Cypress" width="40" height="40"/>
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/98150346/30040e3f-6799-4d6b-80a1-778912d7c006" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cypress.png" alt="Cypress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" width="40" height="40"/>
 </p>
 - 🎭 **Playwright** - Automação moderna de testes web
 - 🔍 **Cypress** - Testes end-to-end
