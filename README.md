@@ -69,17 +69,17 @@
 <hr>
 
 <p align="left">
-  Vamos nos conectar? Sou sempre aberto a discussões sobre automação, qualidade de software e modernização de sistemas! 💌✨
+  Vamos nos conectar? Sou sempre aberto a discussões sobre automação, qualidade de software e modernização de sistemas! 💌✨
 </p>
 
 <p align="left">
-  <a href="mailto:rodrigo.melo@example.com" title="Gmail">
-    <img src="https://github.com/marwin1991/profile-technology-icons/assets/98150346/aa70d303-62c6-4d0f-a957-c0e5a6a57835" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rodrigo-melo-dos-santos-0262a033/" title="LinkedIn">
-    <img src="https://github.com/marwin1991/profile-technology-icons/assets/98150346/102c340c-f370-4ac5-888e-1510e167c13e" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="#" title="WhatsApp">
-    <img src="https://github.com/marwin1991/profile-technology-icons/assets/98150346/362f6b3e-e020-410a-b337-128a1c97f480" alt="WhatsApp" width="40" height="40"/>
-  </a>
+  <a href="mailto:rodrigo.melo@example.com" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigo-melo-dos-santos-0262a033/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="#" title="WhatsApp">
+    <img src="https://skillicons.dev/icons?i=github" alt="WhatsApp"/>
+  </a>
 </p>
